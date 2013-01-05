@@ -4,13 +4,15 @@ cmus-remote-vim
 Why I made this
 ---------------
 
-I often listen to music while I write code, and I don't have (or want) those fancy media keys that some people have on their keyboards.
+I often listen to music while I write code,
+and I don't have (or want) those fancy media keys that some people have on their keyboards.
+Still wanted to be able to control my music player from my editor, so I wrote this.
 
 
 How to use
 ----------
 
-1. Place `plugin/cmus-remote.vim` in your `~/.vim` directory.
+1. Place `plugin/cmus-remote.vim` in your `~/.vim/plugin/` directory.
 2. Bind the functions you think you'll need in your `.vimrc`.
 3. Smile.
 
